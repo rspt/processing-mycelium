@@ -17,3 +17,7 @@ open pointillisme.pde
 Then simply click run!
 
 If you want to change the image, put it in the `images/base` folder and change the width and the height of the canvas to match those of your image!
+
+## Save it!
+
+If you want to save an image, just press any key while processing is runnning and it will save the frame under `images/export`.
