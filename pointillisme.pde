@@ -7,13 +7,13 @@ ArrayList newcells;
 PImage img;
 float food[][];
 
-String filename = "original/capucine.jpg";
+String filename = "darkvador.jpeg";
 boolean inverted = false; // true -> white background
 
 void setup()
 {
-  size(1800, 996);
-  img = loadImage(filename);
+  size(1200, 750); // Width and Height of the base image
+  img = loadImage("images/base/" + filename);
   food = new float[width][height];
   for (int x = 0; x < width; ++x)
     for (int y = 0; y < height; ++y) {
@@ -33,8 +33,8 @@ void setup()
   cells.add(c);
 }
 void keyPressed() {
-  saveFrame("export"+filename+"/e-#####.tiff");
-} 
+  saveFrame("images/export/" + filename+"/e-#####.png");
+}
 void draw()
 {
   loadPixels();
@@ -113,4 +113,3 @@ class Cell {
     newcells.add(c);
   }
 }
-
