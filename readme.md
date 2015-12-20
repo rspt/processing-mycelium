@@ -20,4 +20,4 @@ If you want to change the image, put it in the `images/base` folder and change t
 
 ## Save it!
 
-If you want to save an image, just press any key while processing is runnning and it will save the frame under `images/export`.
+If you want to save an image, just press any key while processing is running and it will save the frame under `images/export`.
