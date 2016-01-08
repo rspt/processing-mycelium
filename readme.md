@@ -1,4 +1,4 @@
-# rspt - Pointillisme
+# rspt - Mycelium
 
 ![Alt Text](./images/starwars.gif)
 
@@ -9,9 +9,9 @@ This experiment is based on [Processing](https://processing.org)
 Download the repo and open the `pde` file:
 
 ```
-git clone git@github.com:rspt/processing-pointillisme.git pointillisme
-cd pointillisme
-open pointillisme.pde
+git clone git@github.com:rspt/processing-pointillisme.git mycelium
+cd mycelium
+open mycelium.pde
 ```
 
 Then simply click run!

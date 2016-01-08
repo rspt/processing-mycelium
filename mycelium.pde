@@ -1,4 +1,4 @@
-// https://github.com/rspt/processing-pointillisme.git
+// https://github.com/rspt/processing-mycelium.git
 
 import java.util.Iterator;
 
