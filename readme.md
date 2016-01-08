@@ -9,7 +9,7 @@ This experiment is based on [Processing](https://processing.org)
 Download the repo and open the `pde` file:
 
 ```
-git clone git@github.com:rspt/processing-pointillisme.git mycelium
+git clone git@github.com:rspt/processing-mycelium.git mycelium
 cd mycelium
 open mycelium.pde
 ```
