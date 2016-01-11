@@ -1,1 +1,4 @@
-images/export/
+images/export
+
+images/base/*
+!images/base/darkvador.jpeg
